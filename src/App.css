@@ -1,3 +1,17 @@
+label { 
+  color: #fff;
+}
+
+h1 {
+  color: #fff;
+}
+h5{
+  color: black;
+  margin-top: 5px;
+}
+img {
+  border-width: 5;
+}
 .App {
   text-align: center;
 }
