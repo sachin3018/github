@@ -1,6 +1,6 @@
 import { Button } from 'reactstrap'
 import React from 'react'
-import { FaFacebook,FaLinkedin,FaWhatsapp } from 'react-icons/fa'
+import { FaFacebook,FaLinkedin } from 'react-icons/fa'
 
 const Footer = () => {
     return(
