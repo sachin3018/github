@@ -93,6 +93,7 @@ const Display = () => {
                             <img 
                                 height="150"
                                 width ="150"
+                                alt=""
                                 className="rounded-circle image-thumbnail border-error"
                                 src={list.avatar_url}
                             />
