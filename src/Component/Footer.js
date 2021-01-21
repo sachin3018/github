@@ -11,7 +11,6 @@ const Footer = () => {
                     <div className="col-3">
                            <Button className="bg-dark">
                                     <a
-                                     target="_blank"
                                      href="https://www.facebook.com/profile.php?id=100007516152193">
                                         <FaFacebook size={30} color="white"/>
                                      </a>
@@ -20,7 +19,6 @@ const Footer = () => {
                     <div className="col-3">
                             <Button className="bg-dark">
                                 <a
-                                     target="_blank"
                                      href="https://www.linkedin.com/in/sachin-singh-66642b106/">
                                         <FaLinkedin size={30} color="white"/>
                                      </a>
