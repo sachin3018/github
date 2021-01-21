@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Card, CardText, CardTitle } from 'reactstrap'
+import { Button, Card,  CardTitle } from 'reactstrap'
 
 const CardRepo = ({data}) => {
     return(
