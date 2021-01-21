@@ -1,5 +1,5 @@
 const config =  {
-    apiKey: "AIzaSyCF9NaYqfASVoIStG4htGkUGjekwcAKxlM",
+    apiKey: "your api key",
     authDomain: "github-3caee.firebaseapp.com",
     projectId: "github-3caee",
     storageBucket: "github-3caee.appspot.com",
