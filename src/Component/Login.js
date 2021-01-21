@@ -1,5 +1,4 @@
-import firebase from 'firebase';
-import React,{ useState } from 'react'
+import React from 'react'
 import Header from './Header';
 import LoginForm from './Login/LoginForm'
 import background from './background.jpg'
